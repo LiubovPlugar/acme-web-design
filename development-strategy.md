@@ -1,48 +1,92 @@
 # Development Strategy
 
-> `name-of-project`
+> `acme-web-design`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- Webpage about affordable professional websites
+- for visitors who want to owe websites
+- easy navigation
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./wireframe.gif)
 
 ## 0. Set-Up
 
 __A User can see my initial repository and live demo__
 
-### Repo
+### Branch
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+1. Create a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this template](https://github.com/hackyourfuturebelgium/w3-validation-template)
+1. Clone the repository
+1. Change `development-strategy.md` file
+1. Add [Wireframe](./wireframe.gif)
+1. Start  README file
+1. Push the changes
+1. Turn on GitHub Pages
 
-## 1. __
+## 1. Home 
 
-__full user story description__
+__Acme Web Design Welcome__
 
-### Repo
+### Branches
 
-what branch(es) did you work on?
+1. This user story was developed on a brach called `home`
+2. It was merged to `master` when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+- Create `index.html` file
+- `Header` element with a title describing the web page
+- `Navigation bar` with `ul` list
+- `Form` with `ìnput` and `button`
+- `Section` with `ìmg` and information about the services
+- `footer`
 
 ### CSS
 
-what did you change in the CSS and why?
+- Styling the elements: `Body``Global`, `Header`, `Showcase`, `Newsletter`, `Boxes`
 
-## 2. ...
 
-...
+## 2. About 
 
-...
+__Acme Web Design About__
+
+### Branches
+
+1. This user story was developed on a brach called `about`
+2. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- Add `about.html` file
+- `Section`element
+- `Article` element
+- `Aside` element
+
+### CSS
+
+- Styling for the new elements : `Global`, `Main-col`, `Sidebar`
+
+## 3. Services
+
+__Acme Web Design Services__
+
+### Branches
+
+1. This user story was developed on a brach called `services`
+2. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- Change `section` element
+- Change `article` element and add `ul`list services
+- Change `aside` element with other name
+
+### CSS
+
+- Styling for the new element: `Services`
 
 ## Finishing Touches
 
