@@ -6,7 +6,7 @@ Website development company
 
 ## Tehnologies
 * html
-* scc
+* css
 
 ## Contributing
 Pull requests are welcome. Please open an issue first if you would like to make changes.
