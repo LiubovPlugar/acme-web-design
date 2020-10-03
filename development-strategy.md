@@ -10,11 +10,10 @@
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](./wireframe.gif)
-
+![wireframe](./img/wireframe.png)
 ## 0. Set-Up
+__A User can see [Repository](https://github.com/LiubovPlugar/acme-web-design and [live demo](https://LiubovPlugar.github.io/acme-web-design/)__
 
-__A User can see my initial repository and live demo__
 
 ### Branch
 
@@ -46,7 +45,7 @@ __Acme Web Design Welcome__
 
 ### CSS
 
-- Styling the elements: `Body``Global`, `Header`, `Showcase`, `Newsletter`, `Boxes`
+- Styling the elements: `Body`, `Global`, `Header`, `Showcase`, `Newsletter`, `Boxes`
 
 
 ## 2. About 
