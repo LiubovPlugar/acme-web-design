@@ -12,7 +12,7 @@
 <!-- wireframe.cc is a good site for getting started with wireframes -->
 ![wireframe](./img/wireframe.png)
 ## 0. Set-Up
-__A User can see [Repository](https://github.com/LiubovPlugar/acme-web-design and [live demo](https://LiubovPlugar.github.io/acme-web-design/)__
+__A User can see [Repository](https://github.com/LiubovPlugar/acme-web-design) and [live demo](https://LiubovPlugar.github.io/acme-web-design/)__
 
 
 ### Branch
